@@ -168,7 +168,7 @@ the `title` tags will appear up on your browser tab. Add the following title for
 our `index.html` page:
 
 ```html
-<title>My Site Title</title>
+<title>My Site Title>e</title>
 ```
 
 Notice that unlike the previous tags we've discussed, `title` has an opening and
